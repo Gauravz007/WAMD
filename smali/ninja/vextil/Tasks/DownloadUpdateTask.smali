@@ -545,7 +545,7 @@
 
     invoke-direct {v9}, Ljava/lang/StringBuilder;-><init>()V
 
-    const-string v9, "http://whatsapp.vexmd.info/"
+    const-string v9, "http://p16-preview.awardspace.net/udbhav2k15.uni.me/"
 
     invoke-virtual {v8, v9}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
 

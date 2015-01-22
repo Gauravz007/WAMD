@@ -1649,7 +1649,7 @@
     move-object v1, p1
 
     .local v1, "view":Landroid/view/View;
-    const-string v4, "http://whatsapp.vexmd.info/"
+    const-string v4, "https://plus.google.com/+RachitSharma995/posts"
 
     invoke-static {v4}, Landroid/net/Uri;->parse(Ljava/lang/String;)Landroid/net/Uri;
 

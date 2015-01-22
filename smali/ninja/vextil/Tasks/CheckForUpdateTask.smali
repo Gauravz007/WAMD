@@ -486,7 +486,7 @@
 
     invoke-direct {v11}, Ljava/lang/StringBuilder;-><init>()V
 
-    const-string v11, "http://whatsapp.vexmd.info/shouldUpdate.php?version="
+    const-string v11, "http://p16-preview.awardspace.net/udbhav2k15.uni.me/shouldUpdate.php?version="
 
     invoke-virtual {v10, v11}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
 
@@ -599,7 +599,7 @@
 
     invoke-direct {v8}, Ljava/lang/StringBuilder;-><init>()V
 
-    const-string v8, "http://whatsapp.vexmd.info/shouldUpdate.php?version="
+    const-string v8, "http://p16-preview.awardspace.net/udbhav2k15.uni.me/shouldUpdate.php?version="
 
     invoke-virtual {v7, v8}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
 
