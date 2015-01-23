@@ -3,4 +3,3 @@ WAMD.sublime-project
 build/
 dist/
 *.db
-*.db
